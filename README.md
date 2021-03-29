@@ -58,7 +58,7 @@ This will dump data.pth file. And then run
 python3 app.py
 ```
 
-###Customize
+### Customize
 
 - Checkout intents.json file. You can customize it according to your own use case. Just define a new tag, possible patterns, and possible responses for the chatbot. You have to re-run the training whenever this file is modified
 ```sh
